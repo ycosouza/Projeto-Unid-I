@@ -26,6 +26,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 100;
+    font-size: 1.2rem;
 }
 
 nav {
@@ -109,7 +110,7 @@ nav a:hover {
     padding: 50px 10%;
     display: flex;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 70px;
     justify-content: center;
 }
 
