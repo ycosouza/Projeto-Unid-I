@@ -68,8 +68,9 @@ nav a:hover {
 
 .hero h1 {
     font-family: var(--fonte-titulo);
-    font-size: 3.5rem;
+    font-size: 5.0rem;
     margin-bottom: 20px;
+    font-weight: bold;
 }
 
 .hero p {
@@ -90,7 +91,7 @@ nav a:hover {
 
 .botao1:hover {
     background-color: var(--cor-secundaria);
-    transform: scale(1.05);
+    transform: scale(1.2);
 }
 
 @media (max-width: 768px) {
