@@ -167,6 +167,12 @@ input, select, textarea {
     background-color: #2a2a2a; 
 }
 
+.rodape{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 /*ABA SERVIÇO*/
 
 .servicos-topo {
